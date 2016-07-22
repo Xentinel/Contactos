@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="cvCornerRadious">10dp</dimen>
+    <dimen name="cvMarginButton">1dp</dimen>
+    <dimen name="cvIvHeight">150dp</dimen>
+    <dimen name="cvIvWidth">100dp</dimen>
+    <dimen name="cvNombreContacto">25dp</dimen>
+    <dimen name="cvTelefonoContacto">17dp</dimen>
+    <dimen name="cvIvMargin">2dp</dimen>
+    <dimen name="heart">25dp</dimen>
+    <dimen name="heartMarginTop">5dp</dimen>
+    <dimen name="margincontDetNomb">2dp</dimen>
+    <dimen name="detContNombre">30sp</dimen>
+    <dimen name="detContIvMargBord">3dp</dimen>
+    <dimen name="detContHeighIv">300dp</dimen>
+    <dimen name="detContTextSize">25sp</dimen>
+</resources>
