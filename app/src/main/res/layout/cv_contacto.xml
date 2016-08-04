@@ -17,7 +17,7 @@
             android:scaleType="centerCrop"
             android:layout_margin="@dimen/cvIvMargin"
             android:id="@+id/cvFotoContacto"
-            android:src="@drawable/aziani_jayden_jaymes_0640"/>
+            android:src="@drawable/jjass"/>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
